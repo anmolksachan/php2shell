@@ -2,7 +2,7 @@
 
 Pre-auth RCE research lab for PHP's `session.upload_progress` heap chain.  
 **GitHub:** https://github.com/anmolksachan/php2shell  
-**Blog:** blog.md (also on Medium — see blog.md for link)
+**Blog:** [PHP2Shell: CVE-2026-109618 Pre-Auth RCE, I Tested It Locally and Here’s How It Works](https://anmolksachan.medium.com/php2shell-cve-2026-109618-pre-auth-rce-i-tested-it-locally-and-heres-how-it-works-0a50d01fa552)
 
 > Authorized testing only. All testing was done against local Docker containers on 127.0.0.1.
 
